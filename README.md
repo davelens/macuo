@@ -2,7 +2,6 @@
 This is just a short guide on how to run Ultima Online on Mac OS 10.11+
 
 Other versions of Mac might work just as well, but are not tested by me.  
-Feel free to drop me a line if you get it to work on other versions of OS X, and I will include it into this readme.
 
 ## Installation
 Run each of the following commands in the given order:
