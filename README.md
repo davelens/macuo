@@ -54,4 +54,10 @@ Once the download is complete, you can install UO by running:
 wine ~/Downloads/setup-1.46.0.3.exe
 ```
 
-Follow the instructions you get from the installation, and you should be set!
+Follow the instructions you get from the installation, and you should be set!  
+
+Running the game:
+
+```bash
+wine ~/.wine/drive_c/Program\ Files/Ultima\ Online\ 2D/uo.exe
+```
